@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hi, im Emilio, a junior developer 
+Hi, im Emilio, i am a highly experienced network technician transitioning into a junior full-stack developer role. I specialize in HTML, CSS, JavaScript, React, and Node.js. Passionate about coding, problem-solving, and continuously learning new technologies to build efficient and innovative solutions.
 
 
 <!--
