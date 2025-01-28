@@ -15,6 +15,18 @@ Hi, im Emilio, i am a highly experienced network technician transitioning into a
 
 <br>
 
+
+
+<br>
+
+<h3>Statistical Data :-</h3>
+<p><img align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=adam-pw&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    alt="adam-pw" 
+    bg_color=#808080/></p>
+
+<br>
+
 <h3 align="left">Languages and Tools:</h3>
 <p
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
