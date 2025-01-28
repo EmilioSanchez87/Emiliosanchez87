@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+Hi, im Emilio, a junior developer 
+
+
 <!--
 **EmilioSanchez87/Emiliosanchez87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
