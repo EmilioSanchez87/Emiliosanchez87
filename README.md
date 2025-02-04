@@ -9,9 +9,6 @@ Hi, im Emilio, i am a highly experienced network technician transitioning into a
   <a href="https://www.linkedin.com/in/emiliosasanchez/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="adam pithewan" height="30" width="40" /></a>
- <a href="https://www.instagram.com/emi.s.san/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="_._.adam._" height="30" width="40" /></a></p>
 
 <br>
 
